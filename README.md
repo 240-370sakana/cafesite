@@ -1,5 +1,6 @@
 # cafesite
 制作課題「珈琲　豆日和」  
+https://240-370sakana.github.io/cafesite/  
 
 v1.0 2026/02/21 作品展展示版  
 「shop」ページを追加。  
